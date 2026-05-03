@@ -6,6 +6,7 @@ config.color_scheme = 'Dracula'
 
 -- Customize fonts and appearance
 config.font = wezterm.font_with_fallback({
+  "GohuFont 11 Nerd Font",
   "FiraCode Nerd Font Mono",
   "Fira Code",
   "Courier New"
